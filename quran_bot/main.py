@@ -618,5 +618,5 @@ class QuranBot:
 
 
 if __name__ == '__main__':
-    bot = QuranBot("6966475696:AAFSKj66T4ciD6jGz8Rk1krbdI_AM7fPdFE")
+    bot = QuranBot("YOUR_BOT_TOKEN")
     bot.runBot()
