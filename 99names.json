@@ -1,0 +1,499 @@
+{
+    "allNames": [
+        {
+            "Arabic": "الله",
+            "Name": "Alloh (Xudo)",
+            "Meaning": "Allohning yagona iloh ekanligini va Undan boshqa hech kim ibodatga loyiq emasligini anglatadi."
+        },
+        {
+            "Arabic": "الرَّحْمَنُ",
+            "Name": "Ar-Rahmon (Mehribon)",
+            "Meaning": "Rabbiyning cheksiz rahm-shafqati borligini bildiradi, bu Alloh taolo insonning mo'min yoki kofir bo'lishidan qat'i nazar, barcha mavjudotlarga ko'rsatadi."
+        },
+        {
+            "Arabic": "الرَّحِيمُ",
+            "Name": "Ar-Rahim (Mehribon)",
+            "Meaning": "Yaratganning barcha ishongan va topinadiganlarga rahm-shafqat ko'rsatishini bildiradi."
+        },
+        {
+            "Arabic": "الْمَلِكُ",
+            "Name": "Al-Malik (Hamma narsaning Robbi)",
+            "Meaning": "Barcha ijodlar ustidan mutlaq hokimiyatga ega bo'lgan olamlarning Hukmdori sifatida tavsiflaydi."
+        },
+        {
+            "Arabic": "الْقُدُّوسُ",
+            "Name": "Al-Quddus (Muqaddas)",
+            "Meaning": "Yaratgan insonlarga xos bo‘lgan har qanday kamchilik va salbiy xislatlardan pokdir."
+        },
+        {
+            "Arabic": "السَّلاَمُ",
+            "Name": "As-salom (Tinchlik beruvchi)",
+            "Meaning": "Alloh iymon keltirgan qavmlar uchun tinchlik va farovonlik manbaidir."
+        },
+        {
+            "Arabic": "الْمُؤْمِنُ",
+            "Name": "Al-Mo'min (Barqarorlik va iymon beruvchi)",
+            "Meaning": "Alloh taoloning irodasi bilan odamlarning qalbida iymon paydo bo'ladi va barqarorlik va xavfsizlik manbai Rabbiydir."
+        },
+        {
+            "Arabic": "الْمُهَيْمِنُ",
+            "Name": "Al-Muhaymin (Qo‘riqchi)",
+            "Meaning": "Yaratgan iymonli odamlarning qo'riqchisi, ularni himoyachisidir."
+        },
+        {
+            "Arabic": "الْعَزِيزُ",
+            "Name": "Al-Aziz (Qudratli)",
+            "Meaning": "Allohning cheksiz qudrat egasi ekanligini bildiradi."
+        },
+        {
+            "Arabic": "الْجَبَّارُ",
+            "Name": "Al-Jabbor (Hammani boshqarish)",
+            "Meaning": "Alloh har qanday maxluqotni O'z irodasiga bo'ysundirishga qodir ekanligiga dalolat qiladi."
+        },
+        {
+            "Arabic": "ُالْمُتَكَبِّر",
+            "Name": "Al-Mutakabbir (Yuqori)",
+            "Meaning": "Alloh taolo barcha maxluqotlardan cheksiz ulug'vorlik va ustunlikka ega."
+        },
+        {
+            "Arabic": "الْخَالِقُ",
+            "Name": "Al-Xoliq (Yaratuvchi)",
+            "Meaning": "Yaratguvchimizni hamma narsaning Yaratuvchisi sifatida tavsiflaydi."
+        },
+        {
+            "Arabic": "الْبَارِئُ",
+            "Name": "Al-Bori (Yaratuvchi)",
+            "Meaning": "Rabbiy sayyoradagi barcha tirik va jonsiz mavjudotlarning Yaratuvchisidir."
+        },
+        {
+            "Arabic": "الْمُصَوِّرُ",
+            "Name": "Al-Musavvir (Har bir narsaga shakl va shakl berish)",
+            "Meaning": "Alloh taolo o‘z rejasiga ko‘ra, barcha ijodiga ma’lum bir shakl, shakl va hajm beradi."
+        },
+        {
+            "Arabic": "الْغَفَّارُ",
+            "Name": "Al-G‘affor (Boshqalarning gunohlarini yashirish)",
+            "Meaning": "Yaratgan odamlarning gunohlarini berkitadi, kamchiliklarini yashiradiki, Alloh ularni keyinchalik kechirishi mumkin."
+        },
+        {
+            "Arabic": "الْقَهَّارُ",
+            "Name": "Al-Kahhor (Hukmdor)",
+            "Meaning": "Alloh taolo har ikki dunyoda ham hukmrondir."
+        },
+        {
+            "Arabic": "الْوَهَّابُ",
+            "Name": "Al-Vahhob (Beruvchi)",
+            "Meaning": "Yaratguvchining odamlarga kerak bo'lgan hamma narsani berishiga dalil bo'lib xizmat qiladi."
+        },
+        {
+            "Arabic": "الرَّزَّاقُ",
+            "Name": "Ar-Razzaku (Barmoq)",
+            "Meaning": "Insonlarning yashashi uchun zarur vositalarni yaratuvchi Yaratgandir."
+        },
+        {
+            "Arabic": "الْفَتَّاحُ",
+            "Name": "Al-Fatto (Oshkor)",
+            "Meaning": "Alloh taolo barcha yashirin narsalarni oshkor etishi, odamlarning qalblarini iymon va to'g'ri yo'l bilish uchun ochishi tushuniladi."
+        },
+        {
+            "Arabic": "اَلْعَلِيْمُ",
+            "Name": "Al-Olim (Hamma narsani biluvchi)",
+            "Meaning": "Xudo barcha sohalarda cheksiz bilimga ega."
+        },
+        {
+            "Arabic": "الْقَابِضُ",
+            "Name": "Al-Qobid (Mollarni kamaytiruvchi)",
+            "Meaning": "Yaratganning rejasiga ko'ra, o'zi xohlagan kishiga ne'matlarni kamaytirishga qodir ekanligini tasdiqlaydi."
+        },
+        {
+            "Arabic": "الْبَاسِطُ",
+            "Name": "Al-Baasit (Ulug‘lovchi)",
+            "Meaning": "Alloh taolo insonlarning qilgan yaxshiliklari uchun ajrni ko‘paytirib beradi."
+        },
+        {
+            "Arabic": "الْخَافِضُ",
+            "Name": "Al-Hafid (Xoruvchi)",
+            "Meaning": "Yaratgan o'sha odamlarni, masalan, xor qiladi."
+        },
+        {
+            "Arabic": "الرَّافِعُ",
+            "Name": "Ar-Rofi (Lift)",
+            "Meaning": "Rabbiy odamlar orasida eng munosibini yuksaltirishining tasdig'idir."
+        },
+        {
+            "Arabic": "الْمُعِزُّ",
+            "Name": "Al-Muizz (Buyuk zot)",
+            "Meaning": "Alloh taolo O‘zi xohlagan bandalarini yuksaltiradi va quvvat beradi."
+        },
+        {
+            "Arabic": "ٱلْمُذِلُّ",
+            "Name": "Al-Muzzil (Zaiflovchi)",
+            "Meaning": "Alloh taolo O'zi xohlagan kishini kuch va quvvatdan mahrum qiladi."
+        },
+        {
+            "Arabic": "السَّمِيعُ",
+            "Name": "As-Samiu (Hamma eshituvchi)",
+            "Meaning": "Rabbiy hamma narsani, shu jumladan eng sokin va sirli bo'lib ko'rinadigan zotdir."
+        },
+        {
+            "Arabic": "الْبَصِيرُ",
+            "Name": "Al-Basir (Hamma narsani ko'ruvchi)",
+            "Meaning": "Alloh hamma narsani ko'rib turuvchidir. Qora toshga qo‘ngan qora chumoli ham Qodirning nigohidan yashirolmaydi."
+        },
+        {
+            "Arabic": "الْحَكَمُ",
+            "Name": "Al-Hakam (Hakam)",
+            "Meaning": "Yaratgan hukmdorlarning eng yaxshisi, adolatli qarorlar chiqaradigan zotdir."
+        },
+        {
+            "Arabic": "الْعَدْلُ",
+            "Name": "Al-Adl (Odil)",
+            "Meaning": "Yaratguvchi hamma narsadadir. U adolatsiz qarorlar qabul qilishdan ozoddir."
+        },
+        {
+            "Arabic": "اللَّطِيفُ",
+            "Name": "Al-Latif (Tushunish)",
+            "Meaning": "Alloh taolo yaratganlariga nisbatan yaxshilik va rahm-shafqat ko‘rsatadi."
+        },
+        {
+            "Arabic": "الْخَبِيرُ",
+            "Name": "Al-Xabir (Biluvchi)",
+            "Meaning": "Olamlarning Parvardigori hamma narsani ochiq va yashirin biladi, Undan hech narsani yashirib bo‘lmaydi, chunki U mutlaqo hamma narsadan xabardordir."
+        },
+        {
+            "Arabic": "الْحَلِيمُ",
+            "Name": "Al-Halim (Tiklangan)",
+            "Meaning": "Alloh taolo bandalarini gunohlari ortidan darrov jazolamaydi, gunohlarimiz uchun tavba qilish va kechirim so‘rash imkonini beradi."
+        },
+        {
+            "Arabic": "الْعَظِيمُ",
+            "Name": "Al-Azyim (Eng buyuk)",
+            "Meaning": "Xudoning buyukligining chegarasi va chegarasi yo'q."
+        },
+        {
+            "Arabic": "الْغَفُور",
+            "Name": "Al-G‘afur (Kechirimli)",
+            "Meaning": "Alloh taolo har qanday gunohni o'z yaratganlarini kechirishga qodir."
+        },
+        {
+            "Arabic": "الشَّكُورُ",
+            "Name": "Shakur (mukofot beruvchi)",
+            "Meaning": "Parvardigor bandalariga qilgan yaxshiliklari uchun behisob ajr ato etadi."
+        },
+        {
+            "Arabic": "الْعَلِيُّ",
+            "Name": "Al-Aliy (Qodir)",
+            "Meaning": "Yaratganning raqobatchisi ham, sheriklari ham yo'q, chunki oliy hazratlarining tengi yo'q."
+        },
+        {
+            "Arabic": "الْكَبِيرُ",
+            "Name": "Al-Kabir (Buyuk)",
+            "Meaning": "Yaratganimiz hech kimga va hech narsaga muhtoj emas."
+        },
+        {
+            "Arabic": "الْحَفِيظُ",
+            "Name": "Al-Hofiz (Qo'riqchi)",
+            "Meaning": "Alloh har bir narsaning himoyachisidir."
+        },
+        {
+            "Arabic": "المُقيِت",
+            "Name": "Al-Muqit (Rizq beruvchi)",
+            "Meaning": "Alloh taolo bandalariga madad beradi, ularni rizq bilan ta’minlaydi."
+        },
+        {
+            "Arabic": "اﻟْﺣَسِيبُ",
+            "Name": "Al-Hasib (Ketarli)",
+            "Meaning": "“Olloh taolo o‘z-o‘ziga yetarli bo‘lgan zotdir."
+        },
+        {
+            "Arabic": "الْجَلِيلُ",
+            "Name": "Al-Jalil (Buyuklik egasi)",
+            "Meaning": "Yaratganning eng yaxshi fazilatlari va haqiqiy buyukligi bor."
+        },
+        {
+            "Arabic": "الْكَرِيمُ",
+            "Name": "Al-Karim (Saxovatli)",
+            "Meaning": "Rabbiy cheksiz saxiylikni ko'rsatmoqda."
+        },
+        {
+            "Arabic": "الرَّقِيبُ",
+            "Name": "Ar-Rakib (Kuzatuvchi)",
+            "Meaning": "Xudo O'zining barcha yaratganlarini diqqat bilan kuzatib boradi."
+        },
+        {
+            "Arabic": "ٱلْمُجِيبُ",
+            "Name": "Al-Mujib (Javob beruvchi)",
+            "Meaning": "Alloh taolo, bandalarining duolari va iltimoslari."
+        },
+        {
+            "Arabic": "الْوَاسِعُ",
+            "Name": "Al-Vasi (Hamma joyda)",
+            "Meaning": "Yaratuvchining fazoviy cheklovlari yo'q, U hamma joyda."
+        },
+        {
+            "Arabic": "الْحَكِيمُ",
+            "Name": "Al-Hakim (Hikmatli)",
+            "Meaning": "Rabbiy cheksiz donolik sohibidir."
+        },
+        {
+            "Arabic": "الْوَدُودُ",
+            "Name": "Al-Vadud (Sevgili)",
+            "Meaning": "Alloh taolo barcha yaratganlarini sevadi."
+        },
+        {
+            "Arabic": "الْمَجِيدُ",
+            "Name": "Al-Majid (Ulug'vor)",
+            "Meaning": "Yaratguvchining olijanobligi bor, uning chegarasi yo'q."
+        },
+        {
+            "Arabic": "الْبَاعِثُ",
+            "Name": "Al-Bais (Tiriltiruvchi)",
+            "Meaning": "Qiyomat kuni barcha bandalarini tiriltiradi."
+        },
+        {
+            "Arabic": "الشَّهِيدُ",
+            "Name": "Ash-Shahid (Guvoh)",
+            "Meaning": "Har bir narsaga Alloh guvohdir."
+        },
+        {
+            "Arabic": "الْحَقُ",
+            "Name": "Al-Hakku (Haqiqiy)",
+            "Meaning": "Ulug‘ zot ikki dunyoda ham haq Robbdir."
+        },
+        {
+            "Arabic": "الْوَكِيلُ",
+            "Name": "Al-Vakil (Qo'riqchi)",
+            "Meaning": "Hamma narsada faqat Yaratganga tayanish kerak, chunki bu odamlar uchun etarli bo'ladi."
+        },
+        {
+            "Arabic": "الْقَوِيُ",
+            "Name": "Al-Kaviy (Kuchli)",
+            "Meaning": "Yaratuvchi cheksiz kuchga egadir."
+        },
+        {
+            "Arabic": "الْمَتِينُ",
+            "Name": "Al-Matin (Qaymas)",
+            "Meaning": "Hech kim Allohning rejalarini o'zgartirishga qodir emas va ularni amalga oshirish uchun U hech kimga va hech narsaga muhtoj emas."
+        },
+        {
+            "Arabic": "الْوَلِيُّ",
+            "Name": "Al-Vali (Yo'ldosh)",
+            "Meaning": "Alloh taolo har doim faqat Unga ibodat qiladigan va Unga chin dildan muhabbat qo‘ygan zotlar bilan birgadir."
+        },
+        {
+            "Arabic": "الْحَمِيدُ",
+            "Name": "Al-Hamid (maqtovga loyiq)",
+            "Meaning": "Haq taolo o‘z kamoloti tufayli har xil maqtovga loyiqdir."
+        },
+        {
+            "Arabic": "الْمُحْصِي",
+            "Name": "Al-Muhsiy (E’tiborga olgan holda)",
+            "Meaning": "Yaratguvchimiz hamma narsani kuzatib boradi va mavjud bo'lgan hamma narsa uchun ma'lum chegaralarni belgilaydi."
+        },
+        {
+            "Arabic": "الْمُبْدِئُ",
+            "Name": "Al-Mubdi (asoschisi)",
+            "Meaning": "Ya'ni, mavjud bo'lgan hamma narsani O'z ixtiyoriga ko'ra yaratgan zot hech qanday namunaga amal qilmagan."
+        },
+        {
+            "Arabic": "اَلْمُمِيتُ",
+            "Name": "Al-Muid (Barcha hayotni o'limga qaytarish, keyin esa tiriltirish)",
+            "Meaning": "Alloh taolo bu dunyodagi barcha jonzotlarni o‘ldirishga, so‘ngra uni tiriltirishga qodirdir."
+        },
+        {
+            "Arabic": "الْحَيُّ",
+            "Name": "Al-Muhyi (Hayot beruvchi)",
+            "Meaning": "Yaratgan kimga xohlasa, unga hayot beradi."
+        },
+        {
+            "Arabic": "ٱلْمُمِيتُ",
+            "Name": "Al-Mumit (O'lim beruvchi)",
+            "Meaning": "Alloh kimni xohlasa, o‘ldiradi."
+        },
+        {
+            "Arabic": "ٱلْحَىُّ",
+            "Name": "Al-Xayyi (Abadiy hayotga ega)",
+            "Meaning": "Qodir Allohning vaqt chegarasi yo'q, chunki U abadiydir."
+        },
+        {
+            "Arabic": "الْقَيُّومُ",
+            "Name": "Al-Qayyum (Hayotning rizqchisi)",
+            "Meaning": "Rabbiy hech kimga yoki hech narsaga bog'liq emas. Bu sayyoradagi hayot manbai."
+        },
+        {
+            "Arabic": "الْوَاجِدُ",
+            "Name": "Al-Vojid (O'zi xohlagan narsani qiladigan)",
+            "Meaning": "Bizning Yaratguvchimiz hamma narsaga mutlaq qodirdir."
+        },
+        {
+            "Arabic": "الْمَاجِدُ",
+            "Name": "Al-Maajid (Eng ulug'vor)",
+            "Meaning": "Bu ism arab tilidan ham 'cheksiz buyuklikka ega' deb tarjima qilingan, ya'ni bu asosda hech kim Alloh bilan tenglasha olmaydi."
+        },
+        {
+            "Arabic": "الْواحِدُ",
+            "Name": "Al-Vohid (Yagona)",
+            "Meaning": "U topinishga loyiq yagona ilohdir."
+        },
+        {
+            "Arabic": "الصَّمَدُ",
+            "Name": "As-Samad (O'zini-o'zi etarli)",
+            "Meaning": "Alloh hech kimga va hech narsaga muhtoj emas, chunki Unda hamma narsa ko'pdir."
+        },
+        {
+            "Arabic": "الْقَادِرُ",
+            "Name": "Al-Qodir (Qudratli)",
+            "Meaning": "Yaratgan hamma narsani yo'qdan yaratishga qodir va hamma narsani yo'q qilishga qodir."
+        },
+        {
+            "Arabic": "الْمُقْتَدِرُ",
+            "Name": "Al-Muqtadir (Hamma narsani eng yaxshi tarzda qiladigan)",
+            "Meaning": "Rabbiy ikki dunyoda hamma narsani eng yaxshi tarzda tartibga soldi va boshqa hech kim buni takrorlay olmaydi."
+        },
+        {
+            "Arabic": "الْمُقَدِّمُ",
+            "Name": "Al-Muqaddim (Targ‘ibotchi)",
+            "Meaning": "Alloh taolo insonlarning eng yaxshilariga olg‘a intilish imkoniyatini beradi."
+        },
+        {
+            "Arabic": "الْمُؤَخِّرُ",
+            "Name": "Al-Muahxir (Orqaga surish)",
+            "Meaning": "Yaratgan kimni xohlasa, o‘zidan uzoqlashtirishi mumkin."
+        },
+        {
+            "Arabic": "الأوَّلُ",
+            "Name": "Al-Avval (Boshlanmagan)",
+            "Meaning": "Alloh doimo mavjud bo'lgan, Uning ibtidosi yo'q."
+        },
+        {
+            "Arabic": "الآخِرُ",
+            "Name": "Al-Ahir (Cheksiz)",
+            "Meaning": "Yaratguvchi abadiy mavjud bo'ladi, uning oxiri yo'q."
+        },
+        {
+            "Arabic": "الظَّاهِرُ",
+            "Name": "Az-Zohir (Ochiq)",
+            "Meaning": "Uning borligi ochiq-oydindir, bu Uning ko'pgina alomatlari bilan tasdiqlanadi."
+        },
+        {
+            "Arabic": "الْبَاطِنُ",
+            "Name": "Al-Batyn (Yashirin)",
+            "Meaning": "Rabbiy erdagi hayotda bizning ko'zimizdan yashiringan."
+        },
+        {
+            "Arabic": "الْوَالِي",
+            "Name": "Al-Valiy (Hukmdor)",
+            "Meaning": "U hamma narsaning hukmdoridir."
+        },
+        {
+            "Arabic": "الْمُتَعَالِي",
+            "Name": "Al-Mutaali (Kamchiliklardan xoli)",
+            "Meaning": "Yaratgan insonga xos bo‘lgan barcha kamchiliklardan ustundir."
+        },
+        {
+            "Arabic": "الْبَرُّ",
+            "Name": "Al-Barru (Fozil)",
+            "Meaning": "Alloh taoloning barcha maxluqotlariga cheksiz yaxshiliklari bor."
+        },
+        {
+            "Arabic": "التَّوَابُ",
+            "Name": "At-Tavvob (Tavbani qabul qilish)",
+            "Meaning": "Rabbiy qilmishlariga chin dildan tavba qilgan odamlarning gunohlarini kechiradi."
+        },
+        {
+            "Arabic": "الْمُنْتَقِمُ",
+            "Name": "Al-Muntaqim (Istiqbolchini jazolash)",
+            "Meaning": "U yerdagi hayotda vahshiylik qilgan gunohkorlarni qattiq jazoga tortadi."
+        },
+        {
+            "Arabic": "العَفُوُ",
+            "Name": "Al-Afuu (Gunohlarni kechiruvchi)",
+            "Meaning": "Yaratgan tavba qilgan va gunoh qilishdan o‘zini saqlagan kishilarni kechiradi."
+        },
+        {
+            "Arabic": "الرَّؤُوفُ",
+            "Name": "Ar-Rauf (Ketaruvchi)",
+            "Meaning": "Alloh taolo bandalarining gunohlari kechirilishi va rahmatini in'om etishi bilan ularga rahm-shafqat ko'rsatadi."
+        },
+        {
+            "Arabic": "مَالِكُ ٱلْمُلْكُ",
+            "Name": "Malikul-Mulk (Rabbiylarning Rabbi)",
+            "Meaning": "Faqat U hamma narsaning yagona Parvardigoridir va bu sifatda hech kim unga tenglasha olmaydi."
+        },
+        {
+            "Arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+            "Name": "Zul-Jaloliy val-Ikrom (Ulug‘lik va saxovat sohibi)",
+            "Meaning": "Barcha buyuklik faqat Unga xosdir va barcha saxovatli ishlar faqat Allohdandir."
+        },
+        {
+            "Arabic": "الْمُقْسِطُ",
+            "Name": "Al-Muksit (Odil)",
+            "Meaning": "U juda adolatli qarorlar qabul qiladigan kishi."
+        },
+        {
+            "Arabic": "الْجَامِعُ",
+            "Name": "Al-Jomi (Integratsiyalash)",
+            "Meaning": "Rabbiy barcha bandalarini birlashtiradi, ularni bir joyga to'playdi."
+        },
+        {
+            "Arabic": "ٱلْغَنيُّ",
+            "Name": "Al-G'ani (Sizga kerak bo'lgan hamma narsa bilan ta'minlangan)",
+            "Meaning": "Alloh taoloning boyligi xilma-xil va shuning uchun u hech kimga va hech narsaga muhtoj emas."
+        },
+        {
+            "Arabic": "ٱلْمُغْنِيُّ",
+            "Name": "Al-Mug‘niy (Boylik beruvchi)",
+            "Meaning": "U kimni xohlasa, boyitadi."
+        },
+        {
+            "Arabic": "اَلْمَانِعُ",
+            "Name": "Al-Mani (Qo'riqchi)",
+            "Meaning": "Yaratgan bandalarini ne’matlardan saqlaydi."
+        },
+        {
+            "Arabic": "الضَّارَ",
+            "Name": "Ad-Darr (Balo yuborishga qodir)",
+            "Meaning": "Ya'ni o'zi kerak deb bilgan kishilarga musibat va qayg'u yuboradi."
+        },
+        {
+            "Arabic": "النَّافِعُ",
+            "Name": "An-Nafi (Foydali)",
+            "Meaning": "Alloh kimni xohlasa, unga foyda keltiradi."
+        },
+        {
+            "Arabic": "النُّورُ",
+            "Name": "An-Nur (Nurlovchi)",
+            "Meaning": "Rabbiy odamlarga to'g'ri yo'lni yoritadi, ularga imon nurini beradi."
+        },
+        {
+            "Arabic": "الْهَادِي",
+            "Name": "Al-Hadiy (qo‘llanma)",
+            "Meaning": "Alloh yaratganlarini to'g'ri yo'lga hidoyat qiladi va hidoyat qiladi."
+        },
+        {
+            "Arabic": "الْبَدِيعُ",
+            "Name": "Al-Badiy (Go‘zal qiyofadagi yaratuvchi)",
+            "Meaning": "U barcha maxluqotlarga go'zal qiyofa berdi va ularni eng yaxshi tarzda yaratdi."
+        },
+        {
+            "Arabic": "اَلْبَاقِي",
+            "Name": "Al-Baqiy (abadiy)",
+            "Meaning": "Rabbiyning vaqt chegarasi yo'q."
+        },
+        {
+            "Arabic": "الْوَارِثُ",
+            "Name": "Al-Varis (Voris)",
+            "Meaning": "U hamma narsaning Vorisidir."
+        },
+        {
+            "Arabic": "الرَّشِيدُ",
+            "Name": "Ar-Rashid (Haqiqat yo‘liga yo‘l ko‘rsatuvchi)",
+            "Meaning": "Yaratgan kimni xohlasa, to'g'ri yoki noto'g'ri yo'lga boshlaydi."
+        },
+        {
+            "Arabic": "الصَّبُورُ",
+            "Name": "As-Sabur (Bemor)",
+            "Meaning": "Allohning sabri cheksiz."
+        }
+    ]
+}

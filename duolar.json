@@ -1,0 +1,228 @@
+{
+    "duolar": [
+        {
+            "name": "Sajda paytida o'qiladigan duo",
+            "text": "Rasululloh alayhissalom: «Agar birortangiz sajda qilsa, kamida uch marta:",
+            "arabic": "سُبْحَانَ رَبِّيَ الأَعْلَى، سُبْحَانَ رَبِّيَ الأَعْلَى، سُبْحَانَ رَبِّيَ الأَعْلَى",
+            "meaning": "«Subhana robbiyal a'la, Subhana robbiyal a'la, Subhana robbiyal a'la»,",
+            "text2": "deb aytsin», dedilar. Sunan kitoblarida rivoyat qilingan.",
+            "number": 1
+        },
+        {
+            "name": "Ruku'da bosh ko'targanda va tik turganda o'qiladigan duo",
+            "text": "Abu Hurayra roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam ruku'dan qomatlarini ko'targanlarida:",
+            "arabic": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ رَبَّنَا لَكَ الْحَمْدُ",
+            "meaning": "«Sami'allohu liman hamidah» (Kim hamd aytsa, Alloh uni eshitadi), tik bo'lganlarida esa, «Robbana lakal hamd» (Rabbimiz, Senga hamd bo'lsin), deb aytar edilar. (Ba'zi rivoyatlarda: «Robbana va lakal hamd» bo'lib kelgan).",
+            "text2": "Imom Buxoriy va Muslim rivoyatlari.",
+            "number": 2
+        },
+        {
+            "name": "Namozda Ruku'da o'qiladigan duo",
+            "text": "Namoz o'qiyotgan kishi ruku'ga to'la egilsa;",
+            "arabic": "سُبْحَانَ رَبِّيَ العَظِيمِ، سُبْحَانَ رَبِّيَ العَظِيمِ، سُبْحَانَ رَبِّيَ العَظِيمِ",
+            "meaning": "«Subhana robbiyal 'aziym», deb ruku' zikrlarini aytadi.",
+            "text2": "Ma'nosi: Ulug' Rabbim nuqsonlardan pokdir.",
+            "number": 3
+        },
+        {
+            "name": "Namoz boshlaganda o'qiladigan duo",
+            "text": "Oisha onamiz roziyallohu anhodan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam namozni boshlasalar:",
+            "arabic": "سُبْحَانَكَ اللهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ",
+            "meaning": " «Subhanakallohumma va bihamdika va tabarokasmuka va ta'ala jadduka va la ilaha g'oyruk», der edilar.",
+            "text2": "Ma'nosi: Ey Rabbim, Senga hamd aytish bilan Seni aybu nuqsonlardan poklayman. Sening isming muborakdir. Azamating oliydir. Sendan boshqa iloh yo'qdir.",
+            "number": 4
+        },
+        {
+            "name": "Azon va iqomatni eshitganda o'qiladigan duo",
+            "text": "Abu Said Xudriy roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Azonni eshitganinglarda muazzin nima desa, o'shani aytinglar», dedilar. Imom Buxoriy va Muslim rivoyatlari. Azonning hammasini eshitib bo'lganidan keyin Rasulullohga salovot aytib, ortidan mana bu duoni o'qiydi: Jobir roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: Kim azonni eshitgan paytida",
+            "arabic": "اللهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ وَابْعَثْهُ مَقَامًا مُحْمُودًا الَّذِي وَعَدْتَهُ",
+            "meaning": "«Allohumma robba hazihid da'vatit tammah vassolatil qoimah, ati Muhammadanil vasiylata val faziylah vab'as'hu maqomam mahmudanillaziy va'adtah», deb aytsa",
+            "text2": "Qiyomat kuni unga shafoat bo'ladi”, dedilar. Ma'nosi: Ey bu komil duoning va qoim bo'lgan namozning egasi - Allohim, Muhammadga vasila va fazilat ber, u zotni va'da qilganing maqtovli maqomda tiriltir, deb so'ngra xohlaganicha dunyoviy va uxroviy duolarni qilaveradi.) Abu Dovud rivoyatlari.",
+            "number": 5
+        },
+        {
+            "name": "Masjidga kirayotganda o'qiladigan duo",
+            "text": "Abu Humayd yoki Abu Usaydlardan rivoyat qilinadi: “Rasululloh sollallohu alayhi vasallam aytdilar: «Agar birortangiz masjidga kirsa, Rasululloh sollallohu alayhi vasallamga salom aytib, so'ng:",
+            "arabic": "اللهُمَّ افْتَحْ لِي أبْوَابَ رَحْمَتِكَ",
+            "meaning": "«Allohummaftah liy abvaba rohmatik», deb aytsin.",
+            "text2": "Ma'nosi: Ey Rabbim, bizga rahmat eshiklarini ochgin",
+            "number": 6
+        },
+        {
+            "name": "Masjiddan chiqayotganda o'qiladigan duo",
+            "text": "Bu hadisni Imom Muslim rivoyat qilganlar. Lekin u zotning rivoyatlarida «Rasulullohga salom aytsin», degan lafz yo'q.",
+            "arabic": "اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+            "meaning": " «Allohumma inniy as`aluka min fazlik», desin».",
+            "text2": "Ma'nosi: Ey Rabbim, Sening fazlingni so'rayman.",
+            "number": 7
+        },
+        {
+            "name": "Masjidga ketayotganda o'qiladigan duo",
+            "text": "Ibn Abbos roziyallohu anhudan rivoyat qilinadi: U zot xolalari Maymuna roziyallohu anhuning uylarida tunab qolganlarida, Rasululloh sollallohu alayhi vasallamning quyidagi ishlariga guvoh bo'lganini aytadilar: «Nabiy sollallohu alayhi vasallam muazzinning bomdodga aytgan azonini eshitdilar, so'ng namozga ketaturib, quyidagi duoni o'qidilar:",
+            "arabic": "اللهُمَّ اجْعِلْ فِي قَلْبِي نُورًا وَفِي لِسَانِي نُورًا وَاجْعَلْ فِي سَمْعِي نُورًا وَاجْعَلْ فِي بَصَرِي نُورًا وَاجْعَلْ مِنْ خَلْفِي نُورًا وَمِنْ أَمَامِي نُورًا وَاجْعَلْ مِنْ فَوقِي نُورًا وَمِنْ تَحْتِي نُورًا، اللهُمَّ اعْطِنِي نُورًا",
+            "meaning": "«Allohummaj'al fiy qolbiy nuron va fiy lisaniy nuron vaj'al fiy sam'iy nuron vaj'al fiy basoriy nuron vaj'al min xolfiy nuron va min amamiy nuron vaj'al min favqiy nuron va min tahtiy nuron, Allohumma'tiniy nuro».",
+            "text2": "Ma'nosi: Ey Rabbim, qalbimda nur qil, tilimda nur qil, qulog'imda nur qil, ko'zimda nur qil, orqamdan nur qil, oldimdan nur qil, ustimdan nur qil, ostimdan nur qil, ey Rabbim, menga nur ato et. Imom Muslim rivoyatlari.",
+            "number": 8
+        },
+        {
+            "name": "Tahorat qilganda o'qiladigan duo",
+            "text": "Umar ibn Xattob roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kim tahorat qilib bo'lib:",
+            "arabic": "أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ الله وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+            "meaning": "«Ashhadu anla ilaha illallohu vahdahu la shariyka lahu va ashhadu anna Muhammadan 'abduhu va rosuluhu»,",
+            "text2": "desa, unga jannatning sakkizta eshigi ochilib, xohlaganidan kiraveradi», dedilar. Imom Muslim rivoyatlari.",
+            "number": 9
+        },
+        {
+            "name": "Qon oldirganda o'qiladigan duo",
+            "text": "Ali roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam:",
+            "arabic": "«Oyatal kursi»",
+            "meaning": "«Kimki qon oldirayotgan paytda «Oyatal kursi»ni o'qisa, o'sha oldirayotgan qoni manfaatli bo'ladi»",
+            "text2": "dedilar. Ibn Sunniy rivoyatlari.",
+            "number": 10
+        },
+        {
+            "name": "Tushida yoqtirmagan narsani ko'rganda o'qiladigan duo",
+            "text": "Ibn Sunniyning rivoyatlarida Abu Hurayra roziyallohu anhu bunday deganlar: «Agar birortangiz o'zi yoqtirmagan tush ko'rsa, uch marta tuflab:",
+            "arabic": "إِنِّي أعُوذُ بِكَ مِنْ عَمَلِ الشَّيْطَانِ وَسَيِّئَاتِ الأَحْلاَمِ",
+            "meaning": "«Inniy a'uzu bika min 'amalish shaytoni va sayyiatil ahlami», desa, unga hech narsa bo'lmaydi».",
+            "text2": "Ma'nosi: Men shaytonning amalidan va bulg'angan tushdan Sening isming ila panoh  tilayman.",
+            "number": 11
+        },
+        {
+            "name": "Uyquda qo'rqqanda o'qiladigan duo",
+            "text": "Amr ibn Shuayb otalaridan, otalari bobolaridan rivoyat qiladilar. Rasululloh sollallohu alayhi vasallam uyqusida qo'rqqanlarga:",
+            "arabic": "أعُوذُ بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ غََضَبِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأنْ يَحْضُرُونِ",
+            "meaning": " «A'uzu bikalimatillahit tammah min g'ozabihi va sharri 'ibadihi va min hamazatish shayatiyni va an yahzuruni», deb aytishni o'rgatganlar.",
+            "text2": "Ma'nosi: Allohning mukammal kalimalari bilan Uning g'azabidan, bandalarining yomonligidan, shayton hozir bo'lib, vasvasa qilishidan panoh tilayman. Abu Dovud, Termiziy va Ibn Sunniylar rivoyatlari.",
+            "number": 12
+        },
+        {
+            "name": "Bezovta bo'lib, uxlay olmaganda o'qiladigan duo",
+            "text": "Zayd ibn Sobit roziyallohu anhu aytadilar: «Rasululloh sollallohu alayhi vasallamga uyqusizlikdan shikoyat qildim, u zot:",
+            "arabic": "اللهُمَّ غَارَتِ النُّجُومُ وَهَدَأَتِ العُيُونُ وَأَنْتَ حَيٌّ قَيُّوم لاَ تَأْخُذُكَ سِنَةٌ وَلاَ نَومٌ يَا حَيُّ يَا قَيُّومُ أهْدِي لَيْلِي وَأنِمْ عَيْنِي",
+            "meaning": " «Allohumma g'orotin nujumu va hada`atil 'uyunu va anta hayyun qoyyum, la ta`xuzuka sinatun va la navm, ya hayyu, ya qoyyumu, ahdiy layliy va anim 'ayniy, deb ayt», dedilar. Shu duoni aytgan edim, Alloh mendan uyqusizlikni ketkazdi».",
+            "text2": "Ma'nosi: Allohim, yulduzlar botdi, ko'zlar tindi. Sen tirik, qoimdirsan. Seni mudroq ham, uyqu ham olmaydi. Ey Hay va Qayyum sifatli Zot, kechamni tinch qilib, ko'zimga uyqu ber. Ibn Sunniy rivoyatlari.",
+            "number": 13
+        },
+        {
+            "name": "Uxlash uchun to'shakka yotganda o'qiladigan duo",
+            "text": "Abu Hurayra roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kishi to'shakka yotayotganida ko'rpa va izorini qoqib tashlasin. Chunki uning orasida nima borligini bilmaydi. So'ng:",
+            "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا وَإِنْ أرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+            "meaning": " «Bismika robbiy vazo'tu jambiy va bika arfa'uhu, in amsakta nafsiy farhamha va in arsaltaha fahfazha bima tahfazu bihi 'ibadakas solihiyn», deb aytsin», dedilar.",
+            "text2": "Ma'nosi: Ey Rabbim, Sening isming bilan yotdim va Sening isming bilan turaman. Agar mening ruhimni olsang, unga rahm qil. Agar uni qo'yib yuborsang, xuddi solih bandalaringni saqlaganingdek, uni ham hifzu himoyangga ol. Imom Buxoriy va Muslim rivoyatlari. ",
+            "number": 14
+        },
+        {
+            "name": "Juma tongida o'qiladigan duo",
+            "text": "Anas roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kim juma kuni bomdod namozidan oldin:",
+            "arabic": "أسْتَغْفِرُ اللهَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ القَيُّومُ وَأَتُوبُ إِلَيْهِ",
+            "meaning": "«Astag'firullohallaziy la ilaha illa huval hayyul qoyyum va atubu ilayh», deb uch marta aytsa, Alloh taolo uning gunohlarini dengiz ko'pigicha bo'lsa ham, kechirib yuboradi», dedilar.",
+            "text2": "Ma'nosi: Hay va qayyum sifatli Zotdan boshqa iloh yo'q va Unga istig'for aytaman, Unga tavba qilaman. Ibn Sunniy rivoyatlari.",
+            "number": 15
+        },
+        {
+            "name": "Tong va kechqurun o'qiladigan duo",
+            "text": "Abu Hurayra roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kim ertalab yoki kechqurun:",
+            "arabic": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+            "meaning": " «Subhanallohi va bihamdihi»,",
+            "text2": "Allohga hamd aytish bilan Uni aybu nuqsonlardan poklab yod etaman, deb yuz marta aytsa, qiyomat kuni biror kishi undan afzal bo'lmaydi. Faqat ana shu kishi aytganidek yoki undan oshirib aytsagina, bo'lishi mumkin», dedilar. Imom Muslim rivoyatlari.",
+            "number": 16
+        },
+        {
+            "name": "Uyqudan uyg'onganda o'qiladigan duo",
+            "text": "Imom Buxoriy rivoyatlari.",
+            "arabic": "الْحَمْدُ للهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+            "meaning": " «Alhamdu lillahillaziy ahyana ba'da ma amatana va ilayhin nushur», deb aytar edilar.",
+            "text2": "Ma'nosi: Bizni o'ldirgandan keyin tiriltirgan Allohga hamd bo'lsin. Va biz Ungagina qaytamiz.",
+            "number": 17
+        },
+        {
+            "name": "Uyquga yotishda o'qiladigan duo",
+            "text": "Huzayfa ibn Yamon roziyallohu anhu va Abu Zarr roziyallohu anhudan rivoyat qilinadi. Rasululloh sollallohu alayhi vasallam to'shaklariga yotsalar,",
+            "arabic": "بِاسْمِكَ اللهمَّ أَحْيَا وَأَمُوتُ",
+            "meaning": " «Bismikallohumma ahya va amutu», deb aytganlar.",
+            "text2": "Ma'nosi: Ey Rabbim, Sening isming bilan tirilaman va o'laman.",
+            "number": 18
+        },
+        {
+            "name": "G’am yoki tashvish kelganda o’qiladigan duo",
+            "text": "Abu Muso Ash'ariy roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kimga g'am-tashvish yetsa, ushbu kalimalar bilan duo qilsin, deganlarida, bir kishi: «Ey Rasululloh mana shu kalimalardan bebahra qolgan kishi xasoratdami» dedi, Rasululloh sollallohu alayhi vasallam: «Ha», deb javob berdilar. So'ngra, «Bu kalimalarni o'zinglar aytib, boshqalarga ham o'rgatinglar. Kim bir narsa talabida ana shu kalimalarni aytsa, Alloh undan xafalikni ketkazib, xursandchiligini ziyoda qiladi», deb o'sha kalimalarni aytdilar:",
+            "arabic": "اللهُمَّ إنِّي عَبْدُكَ ابْنُ عَبْدِكَ ابْنُ أَمَتِكَ نَاصِيَتِي بِيَدِكَ مَاضٍ فِيَّ حُكْمُكَ عَدْلٌ فِيَّ قَضَاؤُكَ؛ أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّيْتَ بِهِ نَفْسَكَ أَوْ أَنْزَلْتَهُ فِي كِتَابِكَ أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ أوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الغَيْبِ عِنْدَكَ أَنْ تَجْعَلَ القُرْآنَ نُورَ صَدْرِي وَرَبِيعَ قَلْبِي وَجِلاَءَ حُزْنِي وَذَهَابَ هَمِّي.",
+            "meaning": "«Allohumma inniy 'abduka, ibnu 'abdika, ibnu amatika, nasiyatiy biyadik, mazin fiyya hukmuk, 'adlun fiyya qozouk, as`aluka bikulli ismin huva laka sammayta bihi nafsaka av anzaltahu fi kitabika av 'allamtahu ahadan min xolqika av ista`sarta bihi fiy 'ilmil g'oybi 'indaka an taj'alal Qur'ana nuro sodriy va robiy'a qolbiy va jilaa huzniy va zahaba hammiy».",
+            "text2": "Ma'nosi: Men Sening qulingman, qulingning o'g'liman, cho'ringning zurriyotiman. Peshonam Sening qo'lingda. Hukming mening ustimda joriydir. Sening hukming odildir. O'zingni nomlagan yoki kitobingda nozil qilgan yoki xalqingdan biror kishiga o'rgatgan yoki g'ayb ilmingda saqlab qo'ygan ismlaring ila so'raymanki, Qur'onni dilimning nuri, qalbimning bahori, mahzunligimni arituvchi va g'amimni ketkizuvchi qil. Ibn Sunniy rivoyatlari.",
+            "number": 19
+        },
+        {
+            "name": "Qiyinchilik va g’amlikda o’qiladigan duo",
+            "text": "Ali roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam agar menga biror qiyinchilik yoki xafachilik yetsa, quyidagi kalimalarni aytishni buyurdilar:",
+            "arabic": "لاَ إِلَهَ إِلاَّ اللهُ الكَرِيْمُ العَظِيمُ، سُبْحَانَهُ تَبَارَكَ اللهُ رَبُّ العَرْشِ العَظِيمِ، الْحَمْدُ للهِ رَبِّ العَالَمِينَ",
+            "meaning": "«La ilaha illallohu karimul 'aziym. Subhanahu tabarokallohu robbul 'arshil 'aziym. Alhamdu lillahi robbil 'alamiyn».",
+            "text2": "Ma'nosi: Ulug' va karim sifatli Allohdan boshqa iloh yo'q. Ulug' arsh Rabbi Alloh barakotli va pokdir. Olamlar rabbi Allohga hamd bo'lsin. Nasaiy va Ibn Sunniy rivoyatlari.",
+            "number": 20
+        },
+        {
+            "name": "Robbimga tavakkal qildim",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Burayda roziyallohu anhudan rivoyat qilinadi:Rasululloh sollallohu alayhi vasallam:«Kim tongda va kech kirganida:",
+            "arabic": "رَبِّيَ اللهُ تَوَكَّلْتُ عَلَيْهِ لاَ إِلَهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ، لاَ إِلَهَ إِلاَّ اللهُ العَلِيُّ العَظِيمُ، مَا شَاءَ اللهُ كَانَ وَمَا لَمْ يَشَأْ لَمْ يَكُنْ، أَعْلَمُ أَنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللهَ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا",
+            "meaning": "«Robbiyalloh, tavakkaltu ʼalayhi laa ilaha illa huv, ʼalayhi tavakkaltu va huva robbul ʼarshil ʼaziym, laa ilaha illallohul ʼaliyyul ʼaziym. Maa sha‘allohu kaana va maa lam yasha‘ lam yakun. Aʼlamu annalloha ʼala kulli shay‘in qodiyr. Va annalloha qod ahato bikulli shay‘in ʼilma», deb aytsa, so‘ng vafot etsa, jannatga kiradi», dedilar.Maʼnosi: Rabbim Allohdir. Unga tavakkal qildim. Undan boshqa iloh yo‘q. Unga tavakkal qildim.",
+            "text2": "U ulug‘ arshning Rabbidir. Ulug‘ va oliy Allohdan boshqa iloh yo‘q. U xohlagan narsa bo‘ladi. U xohlamagan narsa bo‘lmaydi. Alloh hamma narsaga qodir ekanini bilaman. Albatta, Alloh hamma narsani ilmi bilan ihota qilgan zotdir.Ibn Sunniy rivoyatlari.Imom Navaviyning “Al-Azkor” kitobidanTarjimon Anvar Ahmad",
+            "number": 21
+        },
+        {
+            "name": "Allohim, Sendan pok rizq so‘rayman",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Ummu Salama roziyallohu anhodan rivoyat qilinadi:«Rasululloh sollallohu alayhi vasallam qachon subh namozini o‘qisalar:",
+            "arabic": "اللهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَعَمَلاً مُتَقَبَّلاً وَرِزْقًا طَيِّبًا",
+            "meaning": "«Allohumma inniy as`aluka ’ilman nafi’an va ’amalan mutaqobbalan va rizqon toyyiban», deb aytar edilar».",
+            "text2": "Ma’nosi: Allohim, Sendan foydali ilm, qabul bo‘luvchi amal, pok rizq so‘rayman.Imom Ahmad, Ibn Moja va Ibn Sunniy rivoyatlari.Imom Navaviyning «Al-Azkor» kitobidan",
+            "number": 22
+        },
+        {
+            "name": "Nabiy alayhissalomning doim o‘qib yurgan duolari",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Ibn Umar roziyallohu anhumodan rivoyat qilinadi: «Nabiy sollallohu alayhi vasallam quyidagi duolarni kech kirganida va tong otganida hech tark qilmas edilar:",
+            "arabic": "اللهُمَّ إِنِّي أَسْأَلُكَ العَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ اللهُمَّ إِنِّي أَسْأَلُكَ العَفْوَ وَالعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي. اللهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي. اللهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+            "meaning": "«Allohumma inniy as`alukal ’afiyata fiddunya val axiroh. Allohumma inniy as`alukal ’afva val ’afiyata fiy diyniy va dunyaya va ahliy va maliy. Allohummastur ’avrotiy va amin rav’aatiy. Allohummahfazniy min bayni yadayya va min xolfiy va ’an yamiyniy va ’an shimaliy va min favqiy va a’uzu bi’azomatika an ug‘tala min tahtiy».",
+            "text2": "Ma’nosi: Allohim, men Sendan dunyo va oxiratda ofiyat so‘rayman. Ey Rabbim, dinimda va dunyoimda, ahlimda va molimda afv va ofiyat so‘rayman. Ey Rabbim, avratimni bekit, xavflarimni omonlikka aylantir. Ey Allohim, meni oldimdan, orqamdan, o‘ng tomonimdan, chap tomonimdan, ustimdan saqlagin. Ey Rabbim, ostimdan halok qilishingdan Sening azamating ila panoh tilayman.Abu Dovud, Nasaiy, Ibn Mojalar rivoyati. ",
+            "number": 23
+        },
+        {
+            "name": "Kech kirgan paytda o‘qiladigan duo",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Savbon roziyallohu anhudan rivoyat qilinadi: Rasululloh sollallohu alayhi vasallam: «Kim kech kirgan paytda:",
+            "arabic": "رَضِيتُ بِاللهِ رَبًّا وَبِالإِسْلاَمِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيهِ وَسَلَّمَ نَبِيًّا",
+            "meaning": "«Roziytu billahi robban va bil Islami diynan va bi Muhammadin sollallohu ’alayhi vasallama nabiyya», desa, Alloh uni rozi qilishi (berajak ne’matlari bilan) haqiqat bo‘ladi», dedilar.",
+            "text2": "Ma’nosi: Allohni rabbim, Islomni dinim, Muhammad sollallohu alayhi vasallamni payg‘ambar deb rozi bo‘ldim. Bu hadisni Termiziy zaif isnod bilan rivoyat qilganlar. Lekin Abu Dovud va Nasaiylar Rasululloh sollallohu alayhi vasallamga xizmat qilgan bir kishidan keltirgan boshqa rivoyat esa sahihdir. ",
+            "number": 24
+        },
+        {
+            "name": "Etmish ming farishtani vakil qilib qo‘yadigan duo",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Ma’qal ibn Yasor roziyallohu anhudan rivoyat qilinadi:Nabiy sollallohu alayhi vasallam:«Tong otganida kim uch marta:",
+            "arabic": "أَعُوذُ بِاللهِ السَّمِيعِ العَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+            "meaning": "«A’uzu billahis samiy’ul ’aliym minash shaytonir rojiym», deb Hashr surasidan uch oyat o‘qisa, Alloh taolo unga kech kirgunicha salovot aytib turadigan etmish ming farishtani vakil qilib qo‘yadi. Agar vafot etsa, shahid ketadi»,",
+            "text2": "Ma’nosi: Eshituvchi va biluvchi Allohning nomi ila la’natlangan shaytondan panoh tilayman.)Termiziy va Ibn Sunniy zaif isnod bilan rivoyat qilishgan. Imom Navaviyning «Al-Azkor» kitobidan",
+            "number": 25
+        },
+        {
+            "name": "Zararli narsalardan saqlanish",
+            "text": "Bismillahir Rohmanir Rohiym. Alloh taologa bitmas-tuganmas hamdu sanolar bo‘lsin. Payg‘ambarimizga mukammal va batamom salavotu durudlar bo‘lsin. Abu Hurayra roziyallohu anhudan rivoyat qilinadi: «Nabiy sollallohu alayhi vasallam huzurlariga bir kishi kelib: «Ey Rasululloh, kecha meni chayon chaqib oldi», dedi. Shunda Nabiy sollallohu alayhi vasallam: «Kech kirganida:",
+            "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+            "meaning": "«A’uzu bikalimatillahit tammati min sharri ma xolaq», desang, senga hech narsa zarar bermaydi», dedilar.",
+            "text2": "Ma’nosi: Allohning hamma kalimalari bilan U yaratgan narsalarning yomonligidan panoh tilayman. Imom Muslim rivoyatlari.Imom Navaviyning «Al-Azkor» kitobidan",
+            "number": 26
+        },
+        {
+            "name": "Saharlik duosi",
+            "text": "Saharlik: og‘iz yopish duosi",
+            "arabic": "نَوَيْتُ أَنْ أَصُومَ صَوْمَ شَهْرَ رَمَضَانَ مِنَ الْفَجْرِ إِلَى الْمَغْرِبِ، خَالِصًا لِلهِ تَعَالَى أَللهُ أَكْبَرُ",
+            "meaning": "«Navaytu an asuvma sovma shahri ramazona minal fajri ilal mag‘ribi, xolisan lillahi ta’aalaa Allohu akbar.»",
+            "text2": "Ma’nosi: Ramazon oyining ro‘zasini subhdan to kun botguncha tutmoqni niyat qildim. Xolis Alloh uchun Alloh buyukdir.",
+            "number": 27
+        },
+        {
+            "name": "Iftorlik duosi",
+            "text": "Iftorlik: og‘iz ochish duosi",
+            "arabic": "اَللَّهُمَّ لَكَ صُمْتُ وَ بِكَ آمَنْتُ وَ عَلَيْكَ تَوَكَّلْتُ وَ عَلَى رِزْقِكَ أَفْتَرْتُ، فَغْفِرْلِى مَا قَدَّمْتُ وَ مَا أَخَّرْتُ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
+            "meaning": "«Allohumma laka sumtu va bika amantu va ʼalayka tavakkaltu va ʼala rizqika aftartu, fag‘firli ya g‘offaru ma qoddamtu va ma axxortu»",
+            "text2": "Ma’nosi: Ey Alloh, ushbu Ro‘zamni Sen uchun tutdim va Senga iymon keltirdim va Senga tavakkal qildim va bergan rizqing bilan iftor qildim. Ey mehribonlarning eng mehriboni, mening avvalgi va keyingi gunohlarimni mag‘firat qilgil.",
+            "number": 28
+        }
+    ]
+}
